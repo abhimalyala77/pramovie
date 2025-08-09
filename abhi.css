@@ -1,0 +1,43 @@
+@media(max-width:31.25rem){
+    html{
+       font-size: 31.25%;
+       width: 31.25%;
+       height: 31.25%;
+    }
+    .c1{
+        margin: 31.25%;
+    }
+    .p{
+        gap: 31.25%;
+    }
+    .za{
+      margin-top: 31.25%;
+       margin-left: 31.25%;
+    }
+    .aza{
+       margin-top: 31.25%;
+         margin-left: 31.25% ;
+    }
+}
+@media(max-width:62.5rem){
+    html{
+       font-size: 62.5%;
+       
+        width: 62.5%;
+        height: 62.5%;
+    }
+    c1{
+        margin: 62.5%;
+    }
+    .p{
+        gap:62.5% ;
+    }
+    .za{
+      margin-top:62.5% ;
+       margin-left:62.5% ;
+    }
+    .aza{
+       margin-top:62.5% ;
+         margin-left: 62.5% ;
+    }
+}
